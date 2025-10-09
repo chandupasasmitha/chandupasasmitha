@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **React, Next js, Node.js, flutter, React Native, Tailwind**
 
-- 👨‍💻 All of my projects are available at [https://www.404jgoiewhreipo.com/](https://www.404jgoiewhreipo.com/)
+- 👨‍💻 All of my projects are available at [chandupasasmitha.me/](https://chandupasasmitha.me)
 
 - 📫 How to reach me **chandupasasmitha@gmail.com**
 
