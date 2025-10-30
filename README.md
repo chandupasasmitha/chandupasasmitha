@@ -84,7 +84,7 @@ const chandupa = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandupasasmitha&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF6500&currStreakLabel=00F7FF" alt="GitHub Streak" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=chandupasasmitha&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF6500&currStreakLabel=00F7FF" alt="GitHub Streak" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
